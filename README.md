@@ -7,10 +7,12 @@ https://developers.eos.io/eosio-home/docs
 
 ## 第⼀课：EOS基本环境搭建和操作
 
-1.环境搭建以及安装
-2.nodeos 和cleos命令使用
+1.环境搭建以及安装  2.nodeos 和cleos命令使用
+
 3.钱包和账户的使用
+
 4.代币合约部署
+
 5.系统合约部署
 6.创建代币
 7.账户、秘钥、钱包、权限等使用
