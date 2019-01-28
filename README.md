@@ -54,7 +54,6 @@ tail -f nodeos.log
 创建节点后去eosio/config更改config.ini:
 http-server-address = 0.0.0.0:8888
 
-
 ## 2.创建自己的账户
 搭建测试网络的同学请创建系统账户，创建系统账户之前请创建系统token：SYS、EOS到eosio.token下
 系统账户：eosio.stake、eosio.saving、eosio.ramfee、eosio.ram、eosio.names
